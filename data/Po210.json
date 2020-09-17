@@ -1,0 +1,21 @@
+{
+  "FileName": "Po210",
+
+  "DetectorType": "Enriched",
+
+  "DetectorGeo" : "flatBEGe",
+
+  "SourceID": 9,
+
+  "SourceEnergy": 0,
+
+  "ID": 2,
+
+  "DeadLayerThickness": 1,
+
+  "pLayerThickness": 0,
+
+  "Beam": 10000000
+
+}
+  

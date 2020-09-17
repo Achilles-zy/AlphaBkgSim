@@ -1,0 +1,18 @@
+{
+  "FileName": "test553",
+
+  "DetectorType": "Enriched",
+
+  "SourceType": 1,
+
+  "SourceEnergy": 5.304,//MeV
+
+  "ID": 1,
+
+  "DeadLayerThickness": 0.02, //mm
+
+  "Beam": 1000000
+
+
+}
+  
